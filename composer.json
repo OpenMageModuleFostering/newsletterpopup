@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/NewsletterPopup",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "This is magento extension for newsletter subscription with pop-up window.",
+    "authors": [
+    {
+        "name": "iquallinfo",
+        "email": "support@i-quall.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
