@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This is magento extension for newsletter subscription with pop-up window.

@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/NewsletterPopup",
+    "name": "openmage-module-fostering\/newsletterpopup",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This is magento extension for newsletter subscription with pop-up window.",
     "authors": [
